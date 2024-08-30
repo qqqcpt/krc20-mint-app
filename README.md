@@ -1,4 +1,4 @@
-# Krc20MintApp 使用说明
+# 使用说明
 
 ## 1、首先安装bun运行环境，具体参考以下链接
 https://bun.sh/docs/installation
