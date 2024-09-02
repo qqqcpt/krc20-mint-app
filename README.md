@@ -7,6 +7,7 @@ https://bun.sh/docs/installation
 
 ## 3、运行工具：在软件根目录下执行 `bun run mint.ts --privKey 钱包私钥 --ticker TNACHO --mintNumber 要铸造的次数 --priorityFee 0.01 --networkId testnet-10`
 
+## 注意：如果铸造进度太慢或卡住不动，可以关闭当前铸造进程，在重新运行工具时上调priorityFee。
 
 
 
